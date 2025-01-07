@@ -18,4 +18,4 @@ Hi, I'm Ivan, an aspiring developer. No work experience yet, but I hope you will
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 # Progress in development
 * 2023 March [ToDoManager](https://github.com/navi705/ToDoManager-WinUI3)
-* 2023 June [GameProfile](https://gameprofile.xyz/)
+* 2023 June [GameProfile](https://github.com/navi705/GameProfile-Asp.net-Angular)
