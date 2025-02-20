@@ -1,6 +1,3 @@
-# About Me
-Hi, I'm Ivan, an aspiring developer. No work experience yet, but I hope you will be my first employer.I will gradually develop and add projects to my portfolio.
-
 <a href="https://www.linkedin.com/in/omlain/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
