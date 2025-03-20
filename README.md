@@ -16,3 +16,4 @@
 # Progress in development
 * 2023 March [ToDoManager](https://github.com/navi705/ToDoManager-WinUI3)
 * 2023 June [GameProfile](https://github.com/navi705/GameProfile-Asp.net-Angular)
+* 2025 March [SrpskeVestiBot](https://t.me/s/SrpskeVesti) Parsing news from websites and summarizing it for a Telegram channel. 
